@@ -1,0 +1,2 @@
+scenario	sd_x1	sd_x2	sd_x3	param_x4	param_x5	param_x6	bi_trt	bi_ctrl	trt_eff1	step_size	re_count	sim_num
+1	0.3	0.4	0.5	0.75	0.5	0.25	1	0.5	1	30	10	1000
